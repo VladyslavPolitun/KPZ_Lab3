@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Predator\\source\\repos\\KPZ_Lab3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D65B7B14-947E-490B-9A3B-2A986AD0FEC9}|KPZ_Lab3.csproj|c:\\users\\predator\\source\\repos\\kpz_lab3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D65B7B14-947E-490B-9A3B-2A986AD0FEC9}|KPZ_Lab3.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D65B7B14-947E-490B-9A3B-2A986AD0FEC9}|KPZ_Lab3.csproj|c:\\users\\predator\\source\\repos\\kpz_lab3\\adapter\\fileloggeradapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D65B7B14-947E-490B-9A3B-2A986AD0FEC9}|KPZ_Lab3.csproj|solutionrelative:adapter\\fileloggeradapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D65B7B14-947E-490B-9A3B-2A986AD0FEC9}|KPZ_Lab3.csproj|c:\\users\\predator\\source\\repos\\kpz_lab3\\adapter\\filewriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D65B7B14-947E-490B-9A3B-2A986AD0FEC9}|KPZ_Lab3.csproj|solutionrelative:adapter\\filewriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D65B7B14-947E-490B-9A3B-2A986AD0FEC9}|KPZ_Lab3.csproj|c:\\users\\predator\\source\\repos\\kpz_lab3\\adapter\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D65B7B14-947E-490B-9A3B-2A986AD0FEC9}|KPZ_Lab3.csproj|solutionrelative:adapter\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FileLoggerAdapter.cs",
+              "DocumentMoniker": "C:\\Users\\Predator\\source\\repos\\KPZ_Lab3\\Adapter\\FileLoggerAdapter.cs",
+              "RelativeDocumentMoniker": "Adapter\\FileLoggerAdapter.cs",
+              "ToolTip": "C:\\Users\\Predator\\source\\repos\\KPZ_Lab3\\Adapter\\FileLoggerAdapter.cs*",
+              "RelativeToolTip": "Adapter\\FileLoggerAdapter.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T19:47:44.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FileWriter.cs",
+              "DocumentMoniker": "C:\\Users\\Predator\\source\\repos\\KPZ_Lab3\\Adapter\\FileWriter.cs",
+              "RelativeDocumentMoniker": "Adapter\\FileWriter.cs",
+              "ToolTip": "C:\\Users\\Predator\\source\\repos\\KPZ_Lab3\\Adapter\\FileWriter.cs*",
+              "RelativeToolTip": "Adapter\\FileWriter.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T19:47:23.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Logger.cs",
+              "DocumentMoniker": "C:\\Users\\Predator\\source\\repos\\KPZ_Lab3\\Adapter\\Logger.cs",
+              "RelativeDocumentMoniker": "Adapter\\Logger.cs",
+              "ToolTip": "C:\\Users\\Predator\\source\\repos\\KPZ_Lab3\\Adapter\\Logger.cs*",
+              "RelativeToolTip": "Adapter\\Logger.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T19:47:03.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Predator\\source\\repos\\KPZ_Lab3\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Predator\\source\\repos\\KPZ_Lab3\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T19:44:35.667Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

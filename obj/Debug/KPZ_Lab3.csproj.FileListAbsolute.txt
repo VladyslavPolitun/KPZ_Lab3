@@ -1,0 +1,7 @@
+C:\Users\Predator\source\repos\KPZ_Lab3\bin\Debug\KPZ_Lab3.exe.config
+C:\Users\Predator\source\repos\KPZ_Lab3\bin\Debug\KPZ_Lab3.exe
+C:\Users\Predator\source\repos\KPZ_Lab3\bin\Debug\KPZ_Lab3.pdb
+C:\Users\Predator\source\repos\KPZ_Lab3\obj\Debug\KPZ_Lab3.csproj.AssemblyReference.cache
+C:\Users\Predator\source\repos\KPZ_Lab3\obj\Debug\KPZ_Lab3.csproj.CoreCompileInputs.cache
+C:\Users\Predator\source\repos\KPZ_Lab3\obj\Debug\KPZ_Lab3.exe
+C:\Users\Predator\source\repos\KPZ_Lab3\obj\Debug\KPZ_Lab3.pdb
