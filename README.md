@@ -36,11 +36,22 @@ KPZ_Lab3
 
 
 
-Завдання 3. Bridge
+# Завдання 3. Bridge
 
-Реалізовано шаблон Bridge для відокремлення абстракції від реалізації.
+Реалізовано шаблон Bridge для графічного редактора.
 
-Результат роботи
+Створено фігури:
+- Circle
+- Square
+- Triangle
+
+Створено способи рендерингу:
+- VectorRenderer
+- RasterRenderer
+
+## Результат роботи
+
+![Bridge](screenshots/bridge.png)
 
 
 
