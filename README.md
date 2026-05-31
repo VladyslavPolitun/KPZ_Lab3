@@ -15,11 +15,11 @@ KPZ_Lab3
 
 ### Консоль
 
-![Adapter Console](screenshots/adapter_console.png)
+![Adapter Console](screenshots/Снимок экрана 2026-05-31 225044.png)
 
 ### Файл log.txt
 
-![Adapter Log File](screenshots/adapter_logfile.png)
+![Adapter Log File](screenshots/Снимок экрана 2026-05-31 225154.png)
 
 
 
