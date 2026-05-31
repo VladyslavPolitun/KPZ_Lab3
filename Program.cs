@@ -1,6 +1,7 @@
 ﻿using System;
 using KPZ_Lab3.Adapter;
 using KPZ_Lab3.Decorator;
+using KPZ_Lab3.Bridge;
 
 namespace KPZ_Lab3
 {
@@ -49,6 +50,20 @@ namespace KPZ_Lab3
 
             Console.WriteLine(paladin.GetDescription());
             Console.WriteLine("Power: " + paladin.GetPower());
+
+            Console.WriteLine();
+            Console.WriteLine("===== BRIDGE =====");
+
+            Renderer vector = new VectorRenderer();
+            Renderer raster = new RasterRenderer();
+
+            Shape circle = new Circle(vector);
+            Shape square = new Square(raster);
+            Shape triangle = new Triangle(raster);
+
+            circle.Draw();
+            square.Draw();
+            triangle.Draw();
 
             Console.ReadKey();
         }

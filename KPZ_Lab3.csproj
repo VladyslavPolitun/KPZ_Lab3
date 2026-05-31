@@ -46,6 +46,13 @@
     <Compile Include="Adapter\FileLoggerAdapter.cs" />
     <Compile Include="Adapter\FileWriter.cs" />
     <Compile Include="Adapter\Logger.cs" />
+    <Compile Include="Bridge\Circle.cs" />
+    <Compile Include="Bridge\RasterRenderer.cs" />
+    <Compile Include="Bridge\Renderer.cs" />
+    <Compile Include="Bridge\Shape.cs" />
+    <Compile Include="Bridge\Square.cs" />
+    <Compile Include="Bridge\Triangle.cs" />
+    <Compile Include="Bridge\VectorRenderer.cs" />
     <Compile Include="Decorator\ArmorDecorator.cs" />
     <Compile Include="Decorator\ArtifactDecorator.cs" />
     <Compile Include="Decorator\Hero.cs" />
@@ -61,7 +68,6 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Bridge\" />
     <Folder Include="Composite\" />
     <Folder Include="Flyweight\" />
     <Folder Include="Proxy\" />
