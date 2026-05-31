@@ -46,6 +46,14 @@
     <Compile Include="Adapter\FileLoggerAdapter.cs" />
     <Compile Include="Adapter\FileWriter.cs" />
     <Compile Include="Adapter\Logger.cs" />
+    <Compile Include="Decorator\ArmorDecorator.cs" />
+    <Compile Include="Decorator\ArtifactDecorator.cs" />
+    <Compile Include="Decorator\Hero.cs" />
+    <Compile Include="Decorator\HeroDecorator.cs" />
+    <Compile Include="Decorator\Mage.cs" />
+    <Compile Include="Decorator\Paladin.cs" />
+    <Compile Include="Decorator\Warrior.cs" />
+    <Compile Include="Decorator\WeaponDecorator.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -55,7 +63,6 @@
   <ItemGroup>
     <Folder Include="Bridge\" />
     <Folder Include="Composite\" />
-    <Folder Include="Decorator\" />
     <Folder Include="Flyweight\" />
     <Folder Include="Proxy\" />
   </ItemGroup>

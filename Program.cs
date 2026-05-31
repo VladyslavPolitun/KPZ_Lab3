@@ -1,5 +1,6 @@
 ﻿using System;
 using KPZ_Lab3.Adapter;
+using KPZ_Lab3.Decorator;
 
 namespace KPZ_Lab3
 {
@@ -23,6 +24,31 @@ namespace KPZ_Lab3
             fileLogger.Error("Error saved to file");
 
             Console.WriteLine("Messages written to log.txt");
+
+            Console.WriteLine();
+            Console.WriteLine("===== DECORATOR =====");
+
+            Hero warrior = new Warrior();
+            warrior = new ArmorDecorator(warrior);
+            warrior = new WeaponDecorator(warrior);
+
+            Console.WriteLine(warrior.GetDescription());
+            Console.WriteLine("Power: " + warrior.GetPower());
+
+            Hero mage = new Mage();
+            mage = new ArtifactDecorator(mage);
+            mage = new WeaponDecorator(mage);
+
+            Console.WriteLine(mage.GetDescription());
+            Console.WriteLine("Power: " + mage.GetPower());
+
+            Hero paladin = new Paladin();
+            paladin = new ArmorDecorator(paladin);
+            paladin = new ArtifactDecorator(paladin);
+            paladin = new WeaponDecorator(paladin);
+
+            Console.WriteLine(paladin.GetDescription());
+            Console.WriteLine("Power: " + paladin.GetPower());
 
             Console.ReadKey();
         }
